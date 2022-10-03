@@ -1,0 +1,7 @@
+test_input.S
+ref.S
+translator.output
+1.in
+compressed.out
+change
+compressed_changed.out
